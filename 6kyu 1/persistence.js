@@ -1,3 +1,6 @@
+// Persistent Bugger.
+
+
 function persistence(num) {
    let count = 0;
    while (num >= 10) {

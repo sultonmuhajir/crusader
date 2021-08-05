@@ -1,3 +1,6 @@
+// Find The Parity Outlier
+
+
 function findOutlier(integers) {
    const even = integers.filter(el => Math.abs(el) % 2 == 0);
    const odd = integers.filter(el => Math.abs(el) % 2 == 1);

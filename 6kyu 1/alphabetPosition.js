@@ -1,3 +1,6 @@
+// Replace With Alphabet Position
+
+
 function alphabetPosition(text) {
    let res = [];
    const teks = text.toLowerCase().split("")

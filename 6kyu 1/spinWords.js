@@ -1,3 +1,6 @@
+// Stop gninnipS My sdroW!
+
+
 function spinWords(str) {
    const arr = str.split(" ");
    let result = [];

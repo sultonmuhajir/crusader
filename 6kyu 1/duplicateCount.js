@@ -1,3 +1,6 @@
+// Counting Duplicates
+
+
 function duplicateCount(text) {
    const arr = text.toLowerCase().split("");
    const unq = [...new Set(arr)];

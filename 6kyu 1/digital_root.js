@@ -1,3 +1,6 @@
+// Sum of Digits / Digital Root
+
+
 function digital_root(n) {
    while (n >= 10) {
       const arr = [];
@@ -11,7 +14,9 @@ function digital_root(n) {
 }
 
 
-const digital_root = n => n % 9;
+function digital_root(n) {
+   return (n - 1) % 9 + 1;
+}
 
 
 function digital_root(n) {

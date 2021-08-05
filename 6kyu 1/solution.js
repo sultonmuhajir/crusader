@@ -1,3 +1,6 @@
+// Multiples of 3 or 5
+
+
 function solution(number) {
    const arr = [];
    let three = 3;

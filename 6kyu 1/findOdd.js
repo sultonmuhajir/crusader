@@ -1,3 +1,6 @@
+// Find the odd int
+
+
 function findOdd(a) {
    const unq = [...new Set(a)];
    for (let i in unq) {
