@@ -1,5 +1,9 @@
-// Replace With Alphabet Position
-
+/*
+|--------------------------------------------------------------------------
+| Replace With Alphabet Position
+|--------------------------------------------------------------------------
+|
+*/
 
 function alphabetPosition(text) {
    let res = [];
